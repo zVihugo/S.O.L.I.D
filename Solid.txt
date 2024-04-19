@@ -1,0 +1,16 @@
+S.O.L.I.D
+
+	S = Single Responsability Principle - SRP (principio da responsabilidade unica)
+		- "Nunca deve haver mais de uma razão para uma classe mudar"
+		- Uma unica funcionalidade
+	O = Open-closed Principle - OCP (Principio do aberto e fechado)
+		- "Entidades de software (ou seja, classes, módulos e assim por diante) devem ser abertas para extensão, mas fechadas para modificação"
+		- O código 
+	L = Liskov's Substitution Principle - LSP (Principio de substituição de liskov)
+		- "Função que usam ponteiros ou referências a classe base devem ser capazes de usar objetos de classes derivadas sem saber"
+		- Objetos de classe pai, devem ser substituidos por objetos de classe filhas
+	I = Interface Segregation Principle - ISP (Principio da segregação de interface)
+		- "Faça interfaces refinadas que sejam especificas do cliente. O cliente não pode ser obrigado a implementar interfaces que não usam"
+	D = Depency Inversion Principle - DIP (Principio de inversão de dependência)
+		- "Depende de abstrações, e não de concretações)
+	
